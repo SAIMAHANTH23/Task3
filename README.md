@@ -1,3 +1,8 @@
+**Name:** Sai Mahanth Rallapalli
+**College:** Indian Institute Of Engineering Science and Technogy, Shibpur
+**Language:** Python3
+**Software Used:** Jupyter Notebook
+
 **Main idea:**
 
 The major idea is to predict the category using description. Output is given according to a trained model which

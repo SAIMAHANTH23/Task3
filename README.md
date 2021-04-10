@@ -1,6 +1,9 @@
 **Name:** Sai Mahanth Rallapalli
+
 **College:** Indian Institute Of Engineering Science and Technogy, Shibpur
+
 **Language:** Python3
+
 **Software Used:** Jupyter Notebook
 
 **Main idea:**
